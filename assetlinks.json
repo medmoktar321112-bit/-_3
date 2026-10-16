@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "studio.ai.talabati.twa",
+        "sha256_cert_fingerprints": ["21:2B:E2:66:19:4E:7B:4B:B0:2B:DF:B9:27:F1:A6:A0:F0:13:B7:A7:60:CC:27:D7:9E:89:BF:11:B1:5E:8D:EA"]
+      }
+    }]
